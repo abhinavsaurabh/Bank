@@ -1,2 +1,2 @@
-# bank-2
-itsa project
+# Bank Management System
+
